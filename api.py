@@ -6,6 +6,7 @@ import requests
 from fastapi.responses import Response
 from starlette.requests import Request
 
+# auth str for authentication
 auth_str = "sadfglkrtjhioerfgsdfsdfg"
 
 app = fastapi.FastAPI()
