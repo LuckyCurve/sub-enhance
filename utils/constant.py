@@ -3,7 +3,8 @@ auth_str = "sadfglkrtjhioerfgsdfsdfg"
 
 # You can add additional URLs to this list, for example, the frontend's production domain, or other frontends.
 allowed_origins = [
-    "http://localhost:5173"
+    "http://localhost:5173",
+    "http://luckycurve.github.io"
 ]
 
 white_list_uri = [
