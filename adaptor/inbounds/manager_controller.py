@@ -26,3 +26,4 @@ def delete_item(index: int):
 def add_item(host: str):
     with open("black.txt", "a") as file:
         file.write(host + "\n")
+    return "ok"
