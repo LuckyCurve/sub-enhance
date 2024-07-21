@@ -10,5 +10,3 @@ app = fastapi.FastAPI()
 config.fastapi_config.init(app)
 app.include_router(adaptor.inbounds.service_controller.router)
 app.include_router(adaptor.inbounds.manager_controller.router)
-
-
