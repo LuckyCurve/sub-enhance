@@ -8,5 +8,7 @@ allowed_origins = [
 ]
 
 white_list_uri = [
-    "/list"
+    "/list",
+    "/docs",
+    "/openapi.json"
 ]

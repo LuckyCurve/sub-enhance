@@ -1,4 +1,3 @@
 requests~=2.31.0
 fastapi~=0.111.0
 PyYAML~=6.0.1
-starlette~=0.37.2
