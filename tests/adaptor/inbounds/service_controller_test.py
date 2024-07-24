@@ -1,4 +1,4 @@
-import adaptor.inbounds.service_controller as service_controller
+import src.adaptor.inbounds.service_controller as service_controller
 
 
 def test_hide_actual_host():
